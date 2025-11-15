@@ -83,7 +83,7 @@ la tarifa de la ruta se debe guardar en la persistencia con todos los decimales 
 Las imagenes se deben guardar con un identificador unico.
 el identificador de la imagen tambien debe estar guardada en los archivos .txt de la persistencia.
 
-Para poder hacer todas las implementacios anteriores, utiliza como guia al proyecto "guia" que tiene implementaciones muy similares. Utiliza sintaxis, organizacion de clase, metodos y peristencia, de la manera mas similar posible a como esta hecho en el proyecto "guia"
+Para poder hacer todas las implementacios anteriores, utiliza como guia al proyecto "Guia" que tiene implementaciones muy similares. Utiliza sintaxis, organizacion de clase, metodos y peristencia, de la manera mas similar posible a como esta hecho en el proyecto "Guia"
 
 
 
